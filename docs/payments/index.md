@@ -38,7 +38,7 @@ print_r($response);
 
 Redirect the user to the payment page using the `payment_url` from the response.
 
-## Get Paymennt/Order Status
+## Get Payment/Order Status
 
 Get the status of a payment/order.
 
